@@ -15,7 +15,7 @@ let handler = async function (m, { text, usedPrefix }) {
   user.name = name
   user.age = parseInt(age)
   user.regTime = + new Date
-  user.registered = true
+  user.registered = false
   let sn = createHash('md5').update(m.sender).digest('hex')
   user.serial = sn
   
