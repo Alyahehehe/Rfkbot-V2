@@ -22,8 +22,8 @@ let handler  = async (m, { conn, usedPrefix }) => {
 ╠➥ *Uptime:* ${uptime}
 ║
 ╠═〘 DONASI 〙 ═
-╠➥ GOPAY [6285730903853]
-╠➥ PULSA [6285730903853]
+╠➥ DANA [62895324080019]
+╠➥ TRI [62895324080019]
 ║
 ║
 ║${readMore}
@@ -39,14 +39,14 @@ let handler  = async (m, { conn, usedPrefix }) => {
 ║   *ANDA DI DATABASE KAMI*
 ║ 
 ║ 
-╠═ ©2021 ${package.name}
+╠═ ©2022 ${package.name}
 ╠═ Scrip original by Norutomo
-╠═ Creator : AlyaaXzy
+╠═ Creator : aresmodz
 ╠═ Api xsteam :St4r
 ╠═ Resta
 ╠═ Ariq
-╠═〘 AlyaaXzy 〙 ═`.trim()
-     await conn.send2ButtonLoc(m.chat, await(await fetch(image)).buffer(), str, '©RadBotZ ⁩×͜×', 'Owner', '.owner', 'Menu', '.menu', m)
+╠═〘 aresmodz 〙 ═`.trim()
+     await conn.send2ButtonLoc(m.chat, await(await fetch(image)).buffer(), str, '©aresmodz ', 'Owner', '.owner', 'Menu', '.menu', m)
 }
 handler.help = ['infobot']
 handler.tags = ['info']
