@@ -14,11 +14,11 @@
 gc1 = ''
 gc2 = ''
 gc3 = ''
-global.linkGC = ['https://chat.whatsapp.com/HJ9pD2XJ8vq7whuAYOvT1Y', ''] // ganti jadi group lu
-global.owner = ['+1 (775) 403-5736','6289505165400'] // Put your number here //owner eval
-global.kontak = ['+1 (775) 403-5736','6289505165400'] //Ketika ada yang ngetik #owner
+global.linkGC = [''] // ganti jadi group lu
+global.owner = ['6281802626072'] // Put your number here //owner eval
+global.kontak = ['6281802626072'] //Ketika ada yang ngetik #owner
 global.mods = ['0'] // Want some help?
-global.prems = ['+1 (775) 403-5736','6289505165400','6282287750102'] // Premium user has unlimited limit
+global.prems = ['6281802626072'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
   nrtm: 'https://nurutomo.herokuapp.com', 
@@ -47,20 +47,20 @@ xteamkey = 'Dawnfrostkey'
 namaig = 'GAK ADA :)'
 namagithub = 'GAK ADA :)'
 kasihcaption = `Nih kak`
-namakontak1 = 'AlyaaXzy 1'
-namakontak2 = 'AlyaaXzy 2'
+namakontak1 = 'aresmodz 1'
+namakontak2 = 'aresmodz 2'
 
 //kasihcaption = `Nih Kak`
 
 // Sticker WM
-global.packname = 'By AlyaaXzy' // ganti aja
-global.author = 'AlyaaXzy' // ganti aja
+global.packname = ' ' // ganti aja
+global.author = ' ' // ganti aja
 
 //yyy
-bc = 'AlyaaXzy' //AlyaaXy Broadcast
-footer = '\n©AlyaaXzy'
-namabot = 'AlyaaXzy'
-namalu = 'AlyaaXzy'
+bc = 'aresmodz' //AlyaaXy Broadcast
+footer = '\n©aresmodz'
+namabot = 'aresmodz'
+namalu = 'aresmodz'
 
 
 // 
@@ -72,8 +72,8 @@ global.eror = '_*Server Error*_'
 
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=water-logo&doScale=true&scaleWidth=500&scaleHeight=500&fontsize=100&fillTextType=0&backgroundColor=%23101820&text='
 
-// Ubah saja SC dari AlyaaXzy
-global.image = 'https://telegra.ph/file/338349c86c4fcd540968b.png'//thumbnail
+// Ubah saja SC dari aresmodz
+global.image = 'https://pin.it/7JtheqG.png'//thumbnail
 
 // tingkat kesulitan, semakin tinggi semakin susah
 global.multiplier = 36 // The higher, The harder levelup
