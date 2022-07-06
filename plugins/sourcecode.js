@@ -2,7 +2,7 @@ let fetch = require('node-fetch')
 let handler = async (m, { conn }) => conn.sendButtonLoc(m.chat, await (await fetch(fla + 'Source code')).buffer(), `
 *────────「 SCRIPT 」 ────────*
 Hai 👋
-saya ⿻⁩ࣧ☇ARESMODZ↯⿻⁩ࣧ
+saya ⿻⁩ࣧARESMODZ⿻⁩ࣧ
 Bot Ini Menggunakan Sc dari github
 -
 `.trim(), '© aresmodz', 'Thanks', '.tqto')
